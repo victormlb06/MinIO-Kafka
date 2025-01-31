@@ -1,4 +1,6 @@
 /venv/
 .venv
 .env
-kafka_files/
+src/docker/kafka_files/
+.idea
+data/
